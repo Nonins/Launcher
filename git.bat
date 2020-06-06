@@ -1,4 +1,4 @@
-cd C:\Users\arthu\AppData\Local\GitHubDesktop
+cd C:\ProgramData\%USERNAME%\GitHubDesktop\
 start GitHubDesktop.exe
 pause 
 
